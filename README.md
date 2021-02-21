@@ -1,1 +1,1 @@
-"# Simpler-Throne-of-Power" 
+# Simpler-Throne-of-Power
