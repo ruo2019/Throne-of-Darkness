@@ -88,9 +88,9 @@ class Dragon():
         return (f'{self.name}: {self.damage}')
     def upgrade(self):
         """Upgrades health and damage to dragon"""
-        self.health += 100
+        self.health += 1278461099382560198364501978236447529876108375610394875610378946512073948671248957103948
         for i in self.moves:
-            self.damage[i]+=30
+            self.damage[i]+=10000000000
             self.max_damage +=60
     def toPlayer(self):
         return Player(self.name, self.wins, self.health, self.moves, self.damage, self.max_damage)
