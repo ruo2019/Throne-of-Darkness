@@ -1,1 +1,0 @@
-# Simpler-Throne-of-Power
