@@ -1,4 +1,4 @@
 # Throne of Darkness
 - Based on [Throne of Power](https://github.com/ConkerMobile/Throne-of-Power) by Qing
-- 
-![image](https://user-images.githubusercontent.com/66195939/112737036-a547dc00-8f14-11eb-8dbc-e8825ad4bb85.png)
+
+![image (5)](https://user-images.githubusercontent.com/66195939/112737046-bc86c980-8f14-11eb-851d-6241a1379215.png)
