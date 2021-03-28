@@ -1,0 +1,11 @@
+1. Battle Arena:
+    Here, you can battle other players for coins (1 coin per win)
+
+2. Training Arena:
+    Here, you can train with bots that get stronger by level
+
+3. Zombie Apocalypse:
+    Bring on the Zombies! You can fight level 10-20 zombies here. (1 coin per win)
+
+4. Auto
+    You're move will automatically be "hit" and you will automatically pick "y" for the next level until you get defeated.
