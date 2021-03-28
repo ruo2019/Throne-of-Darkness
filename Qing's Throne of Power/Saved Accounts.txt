@@ -1,4 +1,0 @@
-Shadow = Player.Player(name = 'Shadow', wins = 5,health=900,moves=['Sword Slice', 'Hypnosis'],damage = {'Sword Slice': 180, 'Hypnosis': 300},max_damage=580)
-White Cat = Player.Player(name = 'White Cat', wins = 3,health=600,moves=['Punch', 'Thundering Earthquake'],damage = {'Punch': 130, 'Thundering Earthquake': 210},max_damage=420)
-Koala = Player.Player(name = 'Koala', wins = 5,health=900,moves=['Sword Slice', 'Lightsaber Stab'],damage = {'Sword Slice': 180, 'Lightsaber Stab': 300},max_damage=480)
-Koala = Player.Player(name = 'Koala', wins = 5,health=900,moves=['Sword Slice', 'Lightsaber Stab'],damage = {'Sword Slice': 180, 'Lightsaber Stab': 300},max_damage=480)
