@@ -1,0 +1,24 @@
+{
+    "grammarly.overrides": [
+        {
+            "files": [
+                "**/WARNING.txt"
+            ],
+            "config": {
+                "audience": "general",
+                "dialect": "american",
+                "domain": "general",
+                "emotions": [
+                    "neutral",
+                    "confident",
+                    "urgent",
+                    "analytical"
+                ],
+                "goals": [
+                    "inform",
+                    "describe"
+                ]
+            }
+        }
+    ]
+}
