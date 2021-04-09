@@ -1,6 +1,7 @@
 # Throne of Darkness
 - Based on [Throne of Power](https://github.com/ConkerMobile/Throne-of-Power) by Qing
 
+![diamondsword](https://user-images.githubusercontent.com/66195939/114246612-e47c2100-9947-11eb-8b6d-59cb0f9ecbc4.png)
 ![diamondswordvip](https://user-images.githubusercontent.com/66195939/114246590-d7f7c880-9947-11eb-82ee-132a95e29e69.png)
 ![rubysword](https://user-images.githubusercontent.com/66195939/112769696-397a7780-8fd7-11eb-815e-8dee10997b0d.png)
 
